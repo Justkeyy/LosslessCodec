@@ -1,0 +1,3 @@
+C:/Users/minec/Desktop/Convertor/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/ConvertRAW.dir
+C:/Users/minec/Desktop/Convertor/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Users/minec/Desktop/Convertor/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir

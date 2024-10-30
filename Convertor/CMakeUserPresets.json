@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "build\\Desktop_Qt_6_7_1_MinGW_64_bit-Debug\\conan\\CMakePresets.json"
+    ]
+}

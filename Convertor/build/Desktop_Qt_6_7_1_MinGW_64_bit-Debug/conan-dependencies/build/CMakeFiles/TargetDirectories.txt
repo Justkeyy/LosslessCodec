@@ -1,0 +1,2 @@
+C:/Users/minec/Desktop/Convertor/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/conan-dependencies/build/CMakeFiles/edit_cache.dir
+C:/Users/minec/Desktop/Convertor/build/Desktop_Qt_6_7_1_MinGW_64_bit-Debug/conan-dependencies/build/CMakeFiles/rebuild_cache.dir
